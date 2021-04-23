@@ -1,5 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am BarunBapari!
+...
+
 ![GitHub watchers](https://img.shields.io/github/watchers/BarunBapari/Portfolio_barun?style=social)
+
+...
+I am a software Engineer and Web Developer. I am also interested in Machine Learning. I am regular student at some online platform Coursera, Linda and Pluralshit. 
+I have finished my Bachelor degree in 2014 from Volgograd State Technical University, Russia. 
+
+Now I have been working in Ruppore Nuclear Power Plant Project as an interpreter  and engineer. I am also a Freelancer.
+
+An  enthusiastic Learner!!!
+...
 
 <!--
 **BarunBapari/BarunBapari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
